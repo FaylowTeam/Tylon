@@ -35,3 +35,7 @@ global.libraries.toml
 # coverage
 lcov.info
 gen/
+
+# Agent skills (locally installed)
+.agents/skills/
+skills-lock.json
