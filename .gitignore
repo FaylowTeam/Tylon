@@ -36,5 +36,6 @@ global.libraries.toml
 lcov.info
 gen/
 
-.agents/
+# Agent skills (locally installed)
+.agents/skills/
 skills-lock.json
